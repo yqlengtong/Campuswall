@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="my_light_primary">#80359ACA</color>
+    <color name="default_button_color">#80359ACA</color> <!-- 默认按钮颜色 -->
+    <color name="selected_button_color">#80BC2154</color> <!-- 选中按钮颜色 -->
+    <color name="selected_color">#80BC2154</color>
+    <color name="unselected_color">#80359ACA</color>
+</resources>
