@@ -2,10 +2,10 @@
 // 数据库连接和响应助手
 
 function getDbConnection() {
-    $servername = "mysql";
-    $username = "campuswall";
-    $password = "lengtong608040";
-    $dbname = "campuswall";
+    $servername = "localhost";
+    $username = "数据库账号";
+    $password = "数据库密码";
+    $dbname = "数据库名";
 
     $conn = new mysqli($servername, $username, $password, $dbname);
 
